@@ -1,0 +1,7 @@
+TEST_FOR_ERROR
+CCc1ccc(OC(=O)c2cn(-c3ccccc3)nc2-c2ccsc2)cc1
+COCCCOc1cc(C(=O)N(CC2CNCC2Cc2ccccc2)c2ccc(Cl)cc2)ccc1OC
+COc1ccc(Sc2ccc(F)cc2CSC(=N)N)c(CSC(=N)N)c1
+CCCCCCCNC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NCCCCCCC
+CN1Cc2cc(F)ccc2C(c2ccc3sccc3c2)C1
+Cc1ccc(Cl)c2c1[I+]c1ccccc1-2
